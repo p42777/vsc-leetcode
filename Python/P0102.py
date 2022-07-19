@@ -11,7 +11,7 @@ class Solution:
         q.append(root)
 
         while q:
-            qLength = len(q)
+            qLength = len(q) # one level at a time
             level = []
             for i in range(qLength):
                 node = q.popleft() # FIFO

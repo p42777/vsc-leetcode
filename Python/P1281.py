@@ -7,3 +7,4 @@ class Solution:
             sum = sum + int(element)
             product = product * int(element)
         return product - sum
+        
