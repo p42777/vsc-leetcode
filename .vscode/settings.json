@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "defang",
         "inorder",
         "matplotlib",
         "nums",
@@ -8,5 +9,6 @@
         "preorder",
         "strs",
         "vals"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
 }
